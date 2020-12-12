@@ -1,3 +1,3 @@
-### LinkedIn script to apply all filtered jobs.
+# LinkedIn script to apply all filtered jobs.
 
-# Ongoing project.
+## Ongoing project.
